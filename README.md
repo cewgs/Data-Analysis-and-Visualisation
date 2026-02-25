@@ -9,5 +9,5 @@ https://www.kaggle.com/datasets/ronikmalhotra/melbourne-housing-dataset
 ### Repository Structure
 | Path | Description |
 |------|--------------|
-|  | CSV data files (2017–2021) |
-| ` | Colab notebook |
+| 'data\' | housing and geospatial data|
+| | Colab notebook |
