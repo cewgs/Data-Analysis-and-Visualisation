@@ -13,4 +13,4 @@ https://www.kaggle.com/datasets/ronikmalhotra/melbourne-housing-dataset
 | `data_visualisation.ipynb/`| Colab notebook |
 
 You can open the notebook directly in Google Colab using the link below:
-https://colab.research.google.com/github/cewgs/Data-Analysis-and-Visualisation/blob/main/data_visualisation.ipynb
+[Open in Collab](https://colab.research.google.com/github/cewgs/Data-Analysis-and-Visualisation/blob/main/data_visualisation.ipynb)
